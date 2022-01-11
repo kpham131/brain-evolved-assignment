@@ -1,0 +1,110 @@
+
+
+.title-box{
+    margin-top: 3px;
+    font-size: 20px;
+    height: 52px;
+    width: 853px;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-sm{
+    height: 52px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    margin-top: 3px;
+    width: 400px;
+    height: 366px;
+    background-color: #b5b5b5;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 0;
+    margin-right: 0;
+    border-radius: 10px;
+}
+
+.gap{
+    width: 53px;
+    height: 366px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.top-img{
+    display: inline-block;
+    height: 93px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.sign-img{
+    height: 30px;
+}
+
+.popularity-img{
+    padding-left: 30px;
+}
+.total-sales-img{
+    padding-left: 140px;
+}
+
+.star-img{
+    height: 55px;
+}
+
+.stars{
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rating{
+    margin-top: 20px;
+}
+
+.values{
+    margin-top: 10px;
+}
+
+.customers-value{
+    padding-left: 50px;
+    display: inline-block;
+}
+.price-value{
+    padding-left: 80px;
+    display: inline-block;
+}
+.sales-value{
+    padding-left: 45px;
+    display: inline-block;
+}
+.popularity-value{
+    padding-left: 45px;
+    display: inline-block;
+}
+.total-sales-value{
+    padding-left: 160px;
+    display: inline-block;
+}
+
+
+
+.button{
+    margin-top: 15px;
+    height: 59px;
+    width: 853px;
+    font-size: 30px;
+    background-color: #7FA0F4;
+    border: 0;
+    border-radius: 10px;
+}
